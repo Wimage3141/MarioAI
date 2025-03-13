@@ -11,8 +11,8 @@ git clone https://github.com/Wimage3141/MarioAI.git
 
 ### Setup a virtual environment
 ```
-conda create --name smbrl
-conda activate smbrl
+conda create --name mario-ai
+conda activate mario-ai
 ```
 
 ### Install Dependencies
